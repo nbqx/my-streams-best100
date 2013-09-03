@@ -12,7 +12,8 @@
     "markdown": "*",
     "iconv": "*",
     "superagent": "*",
-    "JSONStream": "*"
+    "JSONStream": "*",
+    "colors": "*"
   },
   "devDependencies": {
     "should": "*"
